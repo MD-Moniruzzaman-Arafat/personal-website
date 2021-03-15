@@ -1,0 +1,236 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.sec1{
+    margin-bottom: 25px;
+}
+.menu{
+    padding-left: 65%;
+    height: 83px;
+    
+}
+.menu ul{
+    list-style: none;
+}
+.menu ul li{
+    display: inline;
+    float: left;
+    background-position: right;
+    padding-right: 64px;
+    margin-top: 20px;
+}
+.menu ul li a{
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    color: black;
+
+}
+.sec2{
+    overflow: hidden;
+    padding: 0px 150px;
+}
+.sec2left{
+    width: 27%;
+    float: left;
+    margin-top: 83px;
+}
+.sec2left h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 45px;
+    line-height: 50px;
+}
+.sec2fontcolor{
+    color: tomato;
+}
+.sec2left p{
+    margin-top: 20px;
+    line-height: 21px;
+    color: darkgray;
+    margin-bottom: 25px;
+}
+.sec2left a{
+    background-image: linear-gradient(#FD5E3D, #F8866E );
+    padding: 10px 35px;
+    text-decoration: none;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+}
+.sec2right{
+    width: 40%;
+    float: left;
+    margin-left: 30%;
+}
+.sec2right img{
+    width: 100%;
+}
+/* sec2 end */
+.sec3{
+    overflow: hidden;
+    padding: 100px 150px;
+}
+.sec3left{
+    float: left;
+    width: 40%;
+}
+.sec3left img{
+    width: 100%;
+}
+.sec3right{
+    float: left;
+    width: 40%;
+    margin-left: 20%;
+    margin-top: 60px;
+}
+.sec3right h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 45px;
+}
+.sec3right p{
+    color: darkgray;
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+.sec3right a{
+    background-image: linear-gradient(#FD5E3D, #F8866E );
+    padding: 9px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+}
+/* sec3 end */
+.sec4{
+    background-color: whitesmoke;
+    padding: 0px 150px;
+    overflow: hidden;
+    height: 500px;
+}
+.sec4 h1{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    word-spacing: 5px;
+    padding: 30px 0px;
+}
+.sec4fontcolor{
+    color: tomato;
+}
+.sec4con{
+    float: left;
+    width: 30%;
+    background-color: white;
+    padding: 10px;
+    box-shadow: 1px 1px 4px gray;
+    margin-right: 14px;
+    border-radius: 10px;
+
+}
+.sec4con img{
+    width: 314px;
+}
+.sec4con h4{
+    font-family: 'Oswald', sans-serif;
+    padding-top: 15px;
+}
+.sec4con p{
+    margin-top: 10px;
+    color: darkgray;
+    line-height: 25px;
+}
+/* sec4 end */
+.sec5{
+    margin: 0px 150px;
+    overflow: hidden;
+    margin-top: 40px;
+}
+.sec5left{
+    float: left;
+    width: 50%;
+}
+.sec5left img{
+    width: 100%;
+}
+.sec5right{
+    float: left;
+    width: 40%;
+    background-color: lightgray;
+    margin-top: 335px;
+    margin-left: 47px;
+    padding: 20px;
+    border-left: 5px solid;
+    border-image: linear-gradient(#1d10da, #9293f3 );
+    border-image-slice: 1;
+    border-radius: 5px;
+}
+.sec5right h1{
+    font-family: 'Oswald', sans-serif;
+}
+.sec5color{
+    color: tomato;
+}
+.sec5right p{
+    color: black;
+    margin-top: 20px;
+}
+/* sec5 end */
+.sec6{
+    padding: 150px 220px;
+    height: 150px;
+}
+.sec6con{
+    background-image: url(../image/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 226px;
+    overflow: hidden;
+}
+.sec6item1{
+    float: left;
+    margin: 88px 100px;
+    
+}
+.sec6item1 h1{
+    font-size: 35px;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+}
+.sec6item2{
+    float: left;
+    margin: 108px 0px;
+    margin-left: 226px;
+}
+.sec6item2 a{
+    background-color: tomato;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    
+}
+/* sec6 end */
+.footer{
+    text-align: center;
+}
+.footer h4{
+    color: darkgray;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+}
+.footer h1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Oswald', sans-serif;
+    color: rgb(66, 65, 65);
+
+}
+.footer img{
+    width: 30px;
+    margin-right: 10px;
+}
+
+
